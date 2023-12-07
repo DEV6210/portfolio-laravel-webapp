@@ -1,8 +1,12 @@
-<h1>Footer place here</h1>
+ <!-- Footer -->
+ <footer>
+     <span>
+         <a href="https://www.linkedin.com/in/akashmahapatra"> Akash Mahapatra</a> | <span
+             class="far fa-copyright"></span> 2022 All Rights Reserved. Privacy Policy
+     </span>
+ </footer>
 
 
+ </body>
 
-
-</body>
-
-</html>
+ </html>
