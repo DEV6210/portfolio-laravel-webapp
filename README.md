@@ -8,6 +8,11 @@
 </p>
 
 ## Projects Screen shorts
+![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_1](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/d4e943b2-9cdc-4d8b-b81c-92be11bd3d3e)
+
+![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_2](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/838924e6-e549-49e2-8b05-1ccd954f63af)
+
+![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_3](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/bee39f1c-73ab-46a1-9db8-5379fe9abafc)
 
 ## About Laravel
 
