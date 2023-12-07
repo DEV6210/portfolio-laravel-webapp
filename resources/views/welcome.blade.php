@@ -14,7 +14,7 @@
                     <div class="text-1">Hello, This is</div>
                     <div class="text-2">Amit Mandal</div>
                     <div class="text-3">And I'm a Fullstack Developer<span class="typing"></span></div>
-                    <a href="tel:9382370394">Contact Me</a>
+                    <a href="tel:9382370394">Hire Me</a>
                 </div>
             </div>
         </section>
@@ -28,7 +28,8 @@
                         <img src="https://source.unsplash.com/626x626/?profile" alt="Profile Image 626x626">
                     </div>
                     <div class="column right">
-                        <div class="text">I'm Amit Mandal and I'm a Fullstack Developer <span class="typing-2"></span></div>
+                        <div class="text">I'm Amit Mandal and I'm a Fullstack Developer <span class="typing-2"></span>
+                        </div>
                         <p>Seeking an entry-level opportunity with an esteemed organization where I can utilize my
                             skills & enhance learning in the field of work. Capable of mastering new technologies.</p>
                         <br>
@@ -116,41 +117,41 @@
                         <div class="bars">
                             <div class="info">
                                 <span>MERN Fullstack</span>
-                                <span>%</span>
+                                <span>90%</span>
                             </div>
                             <div class="line python"></div>
                         </div>
                         <div class="bars">
                             <div class="info">
-                                <span>HTML</span>
+                                <span>Next JS</span>
                                 <span>80%</span>
                             </div>
                             <div class="line html"></div>
                         </div>
                         <div class="bars">
                             <div class="info">
-                                <span>CSS</span>
+                                <span>React Native</span>
                                 <span>60%</span>
                             </div>
                             <div class="line css"></div>
                         </div>
                         <div class="bars">
                             <div class="info">
-                                <span>JavaScript</span>
+                                <span>PHP, Laravel</span>
                                 <span>40%</span>
                             </div>
                             <div class="line js"></div>
                         </div>
                         <div class="bars">
                             <div class="info">
-                                <span>Bootstraps</span>
+                                <span>Tailwindui, Chakra UI, MUI</span>
                                 <span>60%</span>
                             </div>
                             <div class="line bootstraps"></div>
                         </div>
                         <div class="bars">
                             <div class="info">
-                                <span>Django</span>
+                                <span>HTML, CSS, Bootstraps,Django, Python, JAVA</span>
                                 <span>70%</span>
                             </div>
                             <div class="line django"></div>
@@ -264,15 +265,15 @@
                             <!-- Social -->
                             <div class="social-menu">
                                 <ul>
-                                    <li><a href="https://github.com/akashm47"><i class="fa-brands fa-github"></i></a>
+                                    <li><a href="#"><i class="fa-brands fa-github"></i></a>
                                     </li>
-                                    <li><a href="https://www.linkedin.com/in/akashmahapatra/"><i
+                                    <li><a href="#"><i
                                                 class="fa-brands fa-linkedin-in"></i></a></li>
-                                    <li><a href="https://www.instagram.com/___kaaashx___/"><i
+                                    <li><a href="#"><i
                                                 class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="https://twitter.com/___kaaashx___/"><i
+                                    <li><a href="#"><i
                                                 class="fa-brands fa-twitter"></i></a></li>
-                                    <li><a href="https://aistechx.com/" title="Get Educate with Us"><i
+                                    <li><a href="#" title="Get Educate with Us"><i
                                                 class="fa-solid fa-graduation-cap"></i></a></li>
                                 </ul>
                             </div>
@@ -306,6 +307,6 @@
             </div>
         </section>
 
-       
+
     </div>
 @endsection
