@@ -1,4 +1,4 @@
-## Projects Screen shorts
+## Project Screen shorts
 ![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_1](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/6a3b56ad-9c1d-45e0-9616-208b4e4a523a)
 
 ![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_2](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/838924e6-e549-49e2-8b05-1ccd954f63af)
