@@ -1,3 +1,11 @@
+## Projects Screen shorts
+![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_1](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/6a3b56ad-9c1d-45e0-9616-208b4e4a523a)
+
+![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_2](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/838924e6-e549-49e2-8b05-1ccd954f63af)
+
+![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_3](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/bee39f1c-73ab-46a1-9db8-5379fe9abafc)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -6,13 +14,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-## Projects Screen shorts
-![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_1](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/6a3b56ad-9c1d-45e0-9616-208b4e4a523a)
-
-![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_2](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/838924e6-e549-49e2-8b05-1ccd954f63af)
-
-![screencapture-127-0-0-1-8000-2023-12-07-15_33_55_3](https://github.com/DEV6210/portfolio-laravel-webapp/assets/91625966/bee39f1c-73ab-46a1-9db8-5379fe9abafc)
 
 ## About Laravel
 
