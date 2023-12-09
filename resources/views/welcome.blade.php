@@ -1,7 +1,7 @@
 @extends('layout.main')
 @push('title')
     <title>
-        index page
+        Home
     </title>
 @endpush
 

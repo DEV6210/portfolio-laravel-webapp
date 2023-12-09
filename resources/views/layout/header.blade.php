@@ -5,11 +5,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    @stack('title')
+    @stack('title');
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+
+
 
     <style>
         * {
@@ -976,6 +978,8 @@
             }
         }
     </style>
+
+
     <script>
         $(document).ready(function() {
             $(window).scroll(function() {
@@ -1089,6 +1093,9 @@
                 <li><a href="#skills" class="menu-btn"><strong>Skills</strong></a></li>
                 <li><a href="#projects" class="menu-btn"><strong>Projects</strong></a></li>
                 <li><a href="#contact" class="menu-btn"><strong>Contact</strong></a></li>
+                <li><a href="{{ url('/signup') }}" class="menu-btn"><strong>Signup</strong></a></li>
+                <li><a href="{{ route('view.data') }}" class="menu-btn"><strong>view</strong></a></li>
+
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
