@@ -5,14 +5,14 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Customer;
 
-use function PHPUnit\Framework\isNull;
-
 class Signup extends Controller
 {
     public function index()
     {
+        $customers = '';
         $url = url('/signup');
-        $data = compact('url');
+        $title = 'Signup';
+        $data = compact('customers', 'url', 'title');
         return view('/auth/signup')->with($data);
     }
 
@@ -75,8 +75,29 @@ class Signup extends Controller
             return redirect()->back();
         } else {
             $url = url('/update') . '/' . $id;
-            $data = compact('customers','url');
+            $title = 'Update';
+            $data = compact('customers', 'url', 'title');
             return view('/auth/signup')->with($data);
         }
+    }
+
+    public function update($id, Request $request)
+    {
+        $request->validate(
+            [
+                'name' => 'required',
+                'mobile' => 'required',
+                'email' => 'required|email',
+            ]
+        );
+
+        // update 
+        $customers = Customer::find($id);
+        $customers->name = $request['name'];
+        $customers->mobile = $request['mobile'];
+        $customers->email = $request['email'];
+        $customers->save();
+
+        return redirect('/viewdata');
     }
 }

@@ -1093,9 +1093,8 @@
                 <li><a href="#skills" class="menu-btn"><strong>Skills</strong></a></li>
                 <li><a href="#projects" class="menu-btn"><strong>Projects</strong></a></li>
                 <li><a href="#contact" class="menu-btn"><strong>Contact</strong></a></li>
-                <li><a href="{{ url('/signup') }}" class="menu-btn"><strong>Signup</strong></a></li>
-                <li><a href="{{ route('view.data') }}" class="menu-btn"><strong>view</strong></a></li>
-
+                <li><a href="{{ url('/signup') }}" class="menu-btn"><strong>SignUp</strong></a></li>
+                <li><a href="{{ route('view.data') }}" class="menu-btn"><strong>View</strong></a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>

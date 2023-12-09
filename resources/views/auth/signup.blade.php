@@ -21,14 +21,23 @@
 
 <body>
     <div style="width: 50%">
-        <form method="post" action="{{ $url }}/signup">
-            @csrf
-            <x-input type='text' name='name' label='Name' />
-            <x-input type='number' name='mobile' label='Mobile' />
-            <x-input type='text' name='email' label='Email Id' />
+        <form method="post" action="{{ $url }}">
+            <div class="card">
+                <div class="card-header">{{ $title }}</div>
+                <div class="card-body">
+                    @csrf
+                    <x-input type='text' name='name' label='Name'
+                        value="{{ $customers != '' ? $customers->name : old('name') }}" />
 
-            <button type="submit" class="btn btn-primary">Submit</button>
+                    <x-input type='number' name='mobile' value="{{ $customers != '' ? $customers->mobile : old('mobile') }}"
+                        label='Mobile' />
+                    <x-input type='text' name='email' value="{{ $customers != '' ? $customers->email : old('email') }}"
+                        label='Email Id' />
+                </div>
+                <div class="card-footer text-muted"><button type="submit" class="btn btn-primary">Submit</button></div>
+            </div>
         </form>
+
     </div>
 </body>
 

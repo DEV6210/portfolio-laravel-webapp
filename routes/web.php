@@ -28,5 +28,6 @@ Route::get('/viewdata', [Signup::class, 'view'])->name('view.data');
 Route::get('/delete/{id}', [Signup::class, 'delete']);
 
 Route::get('/edit/{id}', [Signup::class, 'edit']);
+Route::post('/update/{id}', [Signup::class, 'update']);
 
 // Route::get('/delete/{id}', [Signup::class, 'delete']);
